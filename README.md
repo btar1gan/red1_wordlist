@@ -1,3 +1,3 @@
 # advanced_wordlist
 
-advanced!! Indonesian wordlist for Web Application Security and Pentest/CTF
+advanced!! wordlist for Hacking, Pentest and CTF
