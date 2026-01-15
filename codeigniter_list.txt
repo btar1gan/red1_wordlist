@@ -1,0 +1,7 @@
+/application/config/config.php
+/application/config/database.php
+/application/logs/
+/system/core/
+/user_guide/
+/application/
+/system
